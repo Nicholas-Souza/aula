@@ -1,2 +1,3 @@
-# aula
-Materiais de introdução básicas em programação
+# Materiais de aula com introdução básica em programação
+
+## slides, texto bases e códigos demonstrativos
