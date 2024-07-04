@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body {
+    background-color: #121B24;       
+}
+
+.hello{
+    display: -moz-box;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10% ;
+    margin: auto;
+    max-height: 50%;
+    width: fit-content;
+}
+
+.hello p{
+    width: 323px;
+}
+
+
+
+#world {
+
+    color: red;
+    font-style: italic;    
+    margin: 1%;
+    border: solid 1px salmon;
+
+        
+}
+
+#mundo {
+
+    color: red;
+    font-style: italic;    
+    margin: 1%;
+    border: solid 1px salmon;
+}
+
+.site {
+    font-style: arial;
+}
+
+
